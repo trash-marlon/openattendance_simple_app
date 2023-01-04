@@ -3,7 +3,7 @@ import 'package:openattendance_simple_app/screens/screens.dart';
 import 'package:openattendance_simple_app/models/menu_option.dart';
 
 class AppRouter {
-  static const String initialRoute = 'config';
+  static const String initialRoute = 'init';
 
   static final menuOption = <MenuOption> [
     MenuOption(
