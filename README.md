@@ -1,4 +1,4 @@
-# openattendance_simple_app
+# Openattendance Simple App
 
 # My contact data
 ```
